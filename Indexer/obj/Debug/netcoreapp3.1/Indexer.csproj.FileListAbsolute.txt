@@ -1,0 +1,11 @@
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Jesper\Desktop\VisualStudioProjects\SearchEngine\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
